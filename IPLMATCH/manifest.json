@@ -1,0 +1,20 @@
+{
+    "name": "IPL UPDATE",
+    "version":"1.0.0",
+    "description": "Best extension to see update in match",
+    "manifest_version": 3,
+    "author": "Priyanka Saraf",
+    "action":{
+        "default_popup":"popup.html",
+        "default_title":"My IPLextension"
+    },
+    "icons": {
+        "128": "logo.png"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
+    
+
+
